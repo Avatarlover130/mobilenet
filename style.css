@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(121, 255, 244);
+}
+
+span
+{
+    color: purple;
+    font-size: 15px;
+   font-weight: bold;
+}	
+ li img 
+ {
+        width: 223px;
+        height: 200px;
+        border: 5px solid;
+        border-radius: 25px;
+        border-color: #300238;
+
+ }
+ .division
+ {
+     background: #e9c2ff;
+     padding: 30px;
+     border-radius: 20px;
+     width: 50%;
+     display: inline-block;
+     box-shadow: 5px 5px 18px rgb(38, 0, 39);
+ }
+ b
+ {
+     color: purple;
+ }
+ 
+ .result_obj
+ {
+     text-align: center;
+     background: #f7e7ff;
+     border-radius: 20px;
+     padding: 10px;
+ }
+ .copy_right_footer {
+    position: fixed;
+    color: #000000;
+    bottom: 0;
+    width: 100%;
+    background-color: #acfffb;
+    line-height: 3;
+    text-align: center;
+      font-family: 'Special Elite', cursive;
+ 
+ }
